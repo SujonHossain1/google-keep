@@ -1,0 +1,8 @@
+.navbar{
+    border-bottom: 2px solid #ffc107;
+}
+.navbar-brand b{
+    color: #ffc107;
+    display: inline-block;
+    margin-top: 6px;
+}
